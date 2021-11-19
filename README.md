@@ -1,2 +1,2 @@
 # Conversor de moedas
-## Converta dolares para reais ou reais para dolares
+## Converta dolares em reais ou reais em dolares
